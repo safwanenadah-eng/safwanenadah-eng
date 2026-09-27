@@ -27,24 +27,13 @@ I'm a Mechatronics Engineering student at **École Nationale des Sciences Appliq
 
 ### 🛠️ Core Competencies & Technical Stack
 
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-1E8449?style=for-the-badge&logo=freertos&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CATIA](https://img.shields.io/badge/CATIA%20V5-004990?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-
-</div>
-
-| Domain | Technologies & Skillset |
+| Domain | Skillset |
 | :--- | :--- |
-| **Mechanical Design & CAD** | CATIA V5 (3D Modeling, Assembly, DMU Kinematics), Mechanical Systems Analysis |
-| **Embedded Systems & RTOS** | Bare-metal C/C++, FreeRTOS (Task Scheduling, Queues, Mutexes, Semaphores, ISR, Priority Inheritance), ATmega328P, AVR Architecture |
-| **Robotics & Control** | Webots Simulation, Kinematics, PID Controllers, Finite State Machines (FSM) |
-| **Automation & Intelligence** | Predictive Maintenance, Sensor Fusion, ML for Industrial Reliability (Random Forest, Python), Proteus VSM |
-| **Development & Build Tools** | GNU Make / Custom Makefiles, Git / GitHub Actions, Python |
+| **Conception mécanique & CAO** | CATIA V5 — Part Design, Assembly Design, mise en plan · Modélisation 3D et assemblage · Conception mécanique et prototypage de systèmes mécatroniques · Simulation cinématique (DMU Kinematics) |
+| **Automatisation & Contrôle** | Régulation PID / PI en boucle fermée · Automatisme industriel · Capteurs et actionneurs · MATLAB/Simulink |
+| **Systèmes embarqués & Programmation** | RTOS et SoC (System on Chip) · Systèmes embarqués temps réel · C, C++, Python |
+| **Robotique & Électronique** | Systèmes électromécaniques · Électronique analogique et numérique · Webots, ROS |
+| **Development & Build Tools** | GNU Make / Custom Makefiles, Git / GitHub Actions |
 
 ---
 
