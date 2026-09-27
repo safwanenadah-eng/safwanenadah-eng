@@ -1,3 +1,4 @@
+@@ -1,101 +1,51 @@
 <div align="center">
 
 # Hi there, I'm NADAH Safwane 👋
@@ -7,8 +8,9 @@
 *Robotics • Real-Time Systems • CAD • Industrial AI*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/safwane-nadah-55a990354)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:safwanenadah.eng@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:safwane.nadah.eng@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Fès%2C%20Maroc-informational?style=flat)]()
+⚙️ **Mechatronics & Systems Engineer** | Embedded Systems • Robotics • Automation • CAD & AI
 
 </div>
 
@@ -22,22 +24,38 @@ I'm a Mechatronics Engineering student at **École Nationale des Sciences Appliq
 - 🌱 Exploring **predictive maintenance & sensor-driven ML** for industrial reliability
 - 🎯 Interested in **robotics, autonomous systems, and intelligent automation**
 - 💬 Ask me about embedded C/C++, RTOS internals, PID control, or CAD kinematics
+I design multidisciplinary mechatronic systems at the intersection of mechanical engineering, deterministic embedded firmware, closed-loop control, and industrial data processing.
 
 ---
 
 ### 🛠️ Core Competencies & Technical Stack
 
-| Domain | Skillset |
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-1E8449?style=for-the-badge&logo=freertos&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB%2FSimulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA%20V5-004990?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+
+</div>
+
+| Domain | Technologies & Skillset |
 | :--- | :--- |
-| **Conception mécanique & CAO** | CATIA V5 — Part Design, Assembly Design, mise en plan · Modélisation 3D et assemblage · Conception mécanique et prototypage de systèmes mécatroniques · Simulation cinématique (DMU Kinematics) |
-| **Automatisation & Contrôle** | Régulation PID / PI en boucle fermée · Automatisme industriel · Capteurs et actionneurs · MATLAB/Simulink |
-| **Systèmes embarqués & Programmation** | RTOS et SoC (System on Chip) · Systèmes embarqués temps réel · C, C++, Python |
-| **Robotique & Électronique** | Systèmes électromécaniques · Électronique analogique et numérique · Webots, ROS |
-| **Development & Build Tools** | GNU Make / Custom Makefiles, Git / GitHub Actions |
+| **Mechanical Design & CAD** | CATIA V5 (3D Modeling, Assembly, DMU Kinematics), Mechanical Systems Analysis |
+| **Embedded Systems & RTOS** | Bare-metal C/C++, FreeRTOS (Task Scheduling, Queues, Mutexes, Semaphores, ISR, Priority Inheritance), ATmega328P, AVR Architecture |
+| **Embedded Systems & RTOS** | Bare-metal C/C++, FreeRTOS (Task Scheduling, Queues, Mutexes, ISR), ATmega328P, AVR Architecture |
+| **Robotics & Control** | Webots Simulation, Kinematics, PID Controllers, Finite State Machines (FSM) |
+| **Automation & Intelligence** | Predictive Maintenance, Sensor Fusion, ML for Industrial Reliability (Random Forest, Python), Proteus VSM |
+| **Development & Build Tools** | GNU Make / Custom Makefiles, Git / GitHub Actions, Python |
 
 ---
 
 ### 🚀 Project Highlights
+### 🚀 Key Projects Highlights
 
 #### 🤖 Robotics & Mechatronics Simulation
 - 🚁 **[webots-drone-red-object-tracking](https://github.com/safwanenadah-eng/webots-drone-red-object-tracking)**
@@ -60,10 +78,22 @@ I'm a Mechatronics Engineering student at **École Nationale des Sciences Appliq
   Bare-metal PWM dimmer using Queue-based IPC for duty-cycle control with software debouncing.
 - 📋 **[freertos-atmega328p-event-management](https://github.com/safwanenadah-eng/freertos-atmega328p-event-management)**
   Bare-metal event management architecture with a custom Makefile build and Proteus simulation.
+- 🚁 **[webots-drone-red-object-tracking](https://github.com/safwanenadah-eng/webots-drone-red-object-tracking)**  
+  *Autonomous quadrotor simulation under Webots featuring PID attitude stabilization, state-machine navigation, and visual target tracking.*
+- 📐 **[bench-vice-catia-v5](https://github.com/safwanenadah-eng/bench-vice-catia-v5)**  
+  *Complete CAD design, assembly, and 3D DMU Kinematic study of a heavy-duty mechanical bench vice in CATIA V5.*
+
+#### ⚡ Embedded Control & Real-Time Systems
+- 🦾 **[hydraulic-lift-freertos](https://github.com/safwanenadah-eng/hydraulic-lift-freertos)**  
+  *Real-time industrial hydraulic lift control unit using FreeRTOS on ATmega328P with ADC pressure monitoring, PWM power actuation (TIP120), relay-driven valves, and hardware emergency stop (`INT0`).*
+- 👩‍🦼 **[smart_wheelchair_freertos](https://github.com/safwanenadah-eng/smart_wheelchair_freertos)**  
+  *Safety-critical smart wheelchair control system using multitasking architecture, sensor processing, and motor drivers.*
 
 #### 📈 Industrial Intelligence & Predictive Analytics
 - 🛠️ **[predictive-maintenance](https://github.com/safwanenadah-eng/predictive-maintenance)**
   Remaining Useful Life (RUL) estimation for turbofan jet engines using sensor time-series data and Random Forest — NASA C-MAPSS dataset (MAE: 13.45 cycles).
+- 🛠️ **[predictive-maintenance](https://github.com/safwanenadah-eng/predictive-maintenance)**  
+  *Remaining Useful Life (RUL) estimation for turbofan jet engines based on sensor time-series data and Random Forest algorithms (NASA C-MAPSS dataset).*
 
 ---
 
@@ -73,6 +103,9 @@ I'm a Mechatronics Engineering student at **École Nationale des Sciences Appliq
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-safwane--nadah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safwane-nadah-55a990354)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safwanenadah.eng@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safwane.nadah.eng@gmail.com)
+### 📫 Connect with Me
 
 </div>
+- 🌐 **LinkedIn:** [linkedin.com/in/safwane-nadah](https://linkedin.com/in/safwane-nadah)
+- ✉️ **Email:** safwanenadah.eng@gmail.com
