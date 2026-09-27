@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/safwane-nadah-55a990354)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:safwane.nadah.eng@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Fès%2C%20Maroc-informational?style=flat)]()
 ⚙️ **Mechatronics & Systems Engineer** | Embedded Systems • Robotics • Automation • CAD & AI
 
 </div>
