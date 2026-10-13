@@ -8,7 +8,7 @@
 
 🎯 **Open to PFE internship opportunities**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/safwane-nadah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safwane-nadah)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safwane.nadah.eng@gmail.com)
 
 </div>
@@ -94,7 +94,7 @@ Mechatronics Engineering student at **École Nationale des Sciences Appliquées 
 
 I'm actively looking for a **PFE internship** in embedded systems, robotics, automation, or industrial AI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-safwane--nadah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/safwane-nadah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-safwane--nadah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safwane-nadah)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safwane.nadah.eng@gmail.com)
 
 </div>
